@@ -1,16 +1,16 @@
 ---
-  name: Bug report
-  about: Something isn't working
-  labels: bug
-  ---
+name: Bug report
+about: Something isn't working
+labels: bug
+---
 
-  **What happened?**
+**What happened?**
 
-  **Steps to reproduce**
-  1.
-  2.
+**Steps to reproduce**
+1.
+2.
 
-  **Expected behavior**
+**Expected behavior**
 
-  **Browser / device**
+**Browser / device**
 
